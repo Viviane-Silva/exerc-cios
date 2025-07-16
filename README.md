@@ -1,2 +1,0 @@
-# exerc-cios
-Praticando DOM
